@@ -28,7 +28,8 @@
         "actor": "Daniel Radcliffe",
         "alternate_actors": [],
         "alive": true,
-        "image": "https://ik.imagekit.io/hpapi/harry.jpg"
+        "image": "https://ik.imagekit.io/hpapi/harry.jpg",
+        "appearance": "The Sorcerer's Stone"
       },
       {
         "id": "4c7e6819-a91a-45b2-a454-f931e4a7cce3",
@@ -59,7 +60,8 @@
         "actor": "Emma Watson",
         "alternate_actors": [],
         "alive": true,
-        "image": "https://ik.imagekit.io/hpapi/hermione.jpeg"
+        "image": "https://ik.imagekit.io/hpapi/hermione.jpeg",
+        "appearance": "The Sorcerer's Stone"
       },
       {
         "id": "c3b1f9a5-b87b-48bf-b00d-95b093ea6390",
@@ -93,7 +95,8 @@
         "actor": "Rupert Grint",
         "alternate_actors": [],
         "alive": true,
-        "image": "https://ik.imagekit.io/hpapi/ron.jpg"
+        "image": "https://ik.imagekit.io/hpapi/ron.jpg",
+        "appearance": "The Sorcerer's Stone"
       },
       {
         "id": "af95bd8a-dfae-45bb-bc69-533860d34129",
@@ -119,7 +122,8 @@
         "actor": "Tom Felton",
         "alternate_actors": [],
         "alive": true,
-        "image": "https://ik.imagekit.io/hpapi/draco.jpg"
+        "image": "https://ik.imagekit.io/hpapi/draco.jpg",
+        "appearance": "The Sorcerer's Stone"
       },
       {
         "id": "ca3827f0-375a-4891-aaa5-f5e8a5bad225",
@@ -145,7 +149,8 @@
         "actor": "Dame Maggie Smith",
         "alternate_actors": [],
         "alive": true,
-        "image": "https://ik.imagekit.io/hpapi/mcgonagall.jpg"
+        "image": "https://ik.imagekit.io/hpapi/mcgonagall.jpg",
+        "appearance": "The Sorcerer's Stone"
       },
       {
         "id": "d5c4daa3-c726-426a-aa98-fb40f3fba816",
@@ -171,7 +176,8 @@
         "actor": "Robert Pattinson",
         "alternate_actors": [],
         "alive": false,
-        "image": "https://ik.imagekit.io/hpapi/cedric.png"
+        "image": "https://ik.imagekit.io/hpapi/cedric.png",
+        "appearance": "The Sorcerer's Stone"
       },
       {
         "id": "8f9aa40b-5d7c-441e-ad32-4564ecda3b70",
@@ -197,6 +203,7 @@
         "actor": "Katie Leung",
         "alternate_actors": [],
         "alive": true,
-        "image": "https://ik.imagekit.io/hpapi/cho.jpg"
+        "image": "https://ik.imagekit.io/hpapi/cho.jpg",
+        "appearance": "The Goblet of Fire"
       }
 ]
