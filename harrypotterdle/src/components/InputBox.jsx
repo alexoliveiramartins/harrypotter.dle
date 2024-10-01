@@ -26,7 +26,7 @@ export default function InputBox({correctAnswer}) {
     const handleClick = (characterName) => {
         setInputValue(characterName);
         const selectedCharacter = characters.find(character => character.name === characterName)
-        console.log(selectedCharacter.alias)
+        // console.log(selectedCharacter.alias)
         setGuesses(prevGuesses => [selectedCharacter, ...prevGuesses])
         const newCharacters = characters.filter(character =>
             character.name.toLowerCase() !== characterName.toLowerCase()
@@ -45,12 +45,12 @@ export default function InputBox({correctAnswer}) {
             setInputValue('');
         }
     }
-    console.log('InputBox - correctAnswer:', correctAnswer);
+    // console.log('InputBox - correctAnswer:', correctAnswer);
 
     return (
-    <div className="w-full space-y-4">
-        <label htmlFor="UserEmail" className="block text-2xl font-medium text-gray-700 mb-2">
-        Enter character name
+    <div className="w-full space-y-2 relative">
+        <label htmlFor="UserEmail" className="text-gray-100 block text-2xl font-medium text-gray-700 mb-2">
+            Enter character name
         </label>
         <input
             type="text"
@@ -62,9 +62,10 @@ export default function InputBox({correctAnswer}) {
             className="w-full px-4 py-3 text-xl rounded-md border-2 border-gray-300 shadow-sm focus:border-indigo-500 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
         />
         {inputValue.length > 0 && (
-        <ul className='bg-slate-50'>
+        <ul className='absolute w-full max-w-screen overflow-x-scroll z-20 max-h-screen overflow-y-scroll bg-slate-50'>
             {filteredNames.map(character => (
-                <li onClick={() => handleClick(character.name)} className='p-2 hover:bg-slate-100' key={character.id}>
+                <li onClick={() => handleClick(character.name)} className='items-center flex space-x-2 flex-row p-2 hover:bg-slate-100' key={character.id}>
+                    <img className="size-14 rounded-md shadow-sm w-15 h-15" src={character.image}></img>
                     <span>{character.name}</span>
                     {character.alias && character.alias !== "" && (
                         <span className='text-slate-400'>

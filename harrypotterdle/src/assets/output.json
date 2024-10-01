@@ -1,7 +1,7 @@
 [
     {
         "name": "Harry James Potter",
-        "image": "https://harrypotter.fandom.com/wiki/File:Harry_Potter_DHF1.jpg",
+        "image": "https://i.pinimg.com/564x/0e/11/41/0e1141a31fb3d26ae4f717ed86bab4eb.jpg",
         "gender": "Male",
         "born": "1980",
         "alias": "The Boy Who Lived",
@@ -10,11 +10,11 @@
         "house": "Gryffindor",
         "patronus": "Deer|Stag",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Hermione Jean Granger",
-        "image": "https://harrypotter.fandom.com/wiki/File:Hermione_Granger.jpg",
+        "image": "https://i.pinimg.com/564x/a2/88/cc/a288ccdac3dd55fe1ea1facec0cc49c1.jpg",
         "gender": "Female",
         "born": "1980",
         "alias": "",
@@ -23,11 +23,11 @@
         "house": "Gryffindor",
         "patronus": "Otter",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Ronald Bilius Weasley",
-        "image": "https://harrypotter.fandom.com/wiki/File:Ronald_Weasley_DHF1.jpg",
+        "image": "https://i.pinimg.com/564x/8e/ed/31/8eed31f1f92e347bc7c89bb889570344.jpg",
         "gender": "Male",
         "born": "1980",
         "alias": "Ron",
@@ -36,11 +36,11 @@
         "house": "Gryffindor",
         "patronus": "Jack Russell terrier",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Albus Percival Wulfric Brian Dumbledore",
-        "image": "https://harrypotter.fandom.com/wiki/File:Albus_Dumbledore_(HBPF_promo).jpg",
+        "image": "https://i.pinimg.com/564x/c5/d2/e0/c5d2e0b8ec09b912c11b6a32ed565acf.jpg",
         "gender": "Male",
         "born": "1881",
         "alias": "",
@@ -49,63 +49,63 @@
         "house": "Gryffindor",
         "patronus": "Phoenix",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Severus Snape",
-        "image": "https://harrypotter.fandom.com/wiki/File:Severus_Snape.jpg",
+        "image": "https://i.pinimg.com/564x/67/55/0e/67550e6be4636f1d8ce65092b4017c4a.jpg",
         "gender": "Male",
         "born": "1960",
         "alias": "Half-Blood Prince",
         "blood": "Half-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Slytherin",
         "patronus": "Deer|Doe",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
-        "name": "Sirius Black III",
-        "image": "https://harrypotter.fandom.com/wiki/File:OOTP_promo_front_closeup_Sirius_Black.jpg",
+        "name": "Sirius Black",
+        "image": "https://i.pinimg.com/564x/fa/16/6e/fa166ee361323806e6f70bafe57b48ef.jpg",
         "gender": "Male",
-        "born": "Unknown",
+        "born": "1959",
         "alias": "Padfoot",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Rubeus Hagrid",
-        "image": "https://harrypotter.fandom.com/wiki/File:Rubeus_Hagrid.png",
+        "image": "https://i.pinimg.com/564x/2f/38/d2/2f38d258c774e94680abaae8c33598b9.jpg",
         "gender": "Male",
         "born": "1928",
         "alias": "",
         "blood": "Half-breed",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "None",
-        "species": "Part-human|Half-human",
-        "first_appearance": "PS"
+        "species": "Part-human",
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Draco Lucius Malfoy",
-        "image": "https://harrypotter.fandom.com/wiki/File:Draco_Malfoy_TDH.png",
+        "image": "https://i.pinimg.com/736x/67/94/1a/67941aee837fe88dc0fef6996794cdcd.jpg",
         "gender": "Male",
         "born": "1980",
         "alias": "The Amazing Bouncing Ferret",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Slytherin",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Luna Lovegood",
-        "image": "https://harrypotter.fandom.com/wiki/File:Luna_Lovegood.jpg",
+        "image": "https://i.pinimg.com/564x/2d/e4/3f/2de43fe10308ddd4300404c816a7cabd.jpg",
         "gender": "Female",
         "born": "1981",
         "alias": "Loony Lovegood",
@@ -114,11 +114,11 @@
         "house": "Ravenclaw",
         "patronus": "Hare",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Neville Longbottom",
-        "image": "https://harrypotter.fandom.com/wiki/File:Harry-potter-and-the-deathly-hallowspart-2.jpg",
+        "image": "https://i.pinimg.com/736x/ac/74/e7/ac74e74b1d437a9eb48265905991c1ff.jpg",
         "gender": "Male",
         "born": "1980",
         "alias": "",
@@ -127,50 +127,50 @@
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Fred Weasley",
-        "image": "https://harrypotter.fandom.com/wiki/File:Fred_HS_TDH_promo.jpg",
+        "image": "https://i.pinimg.com/564x/b8/dc/e9/b8dce96a3f69dee60b68dbd1fa67ebbc.jpg",
         "gender": "Male",
         "born": "1978",
         "alias": "Rodent",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "Magpie",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "George Weasley",
-        "image": "https://harrypotter.fandom.com/wiki/File:DH_promo_front_closeup_George_Weasley.jpg",
+        "image": "https://i.pinimg.com/564x/99/60/c2/9960c23c3032aa43e5f6dc7790ec6047.jpg",
         "gender": "Male",
         "born": "1978",
         "alias": "Fred Weasley|Gred",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "Magpie",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Ginevra Molly Weasley",
-        "image": "https://harrypotter.fandom.com/wiki/File:Ginny_Weasley_hbp_promo.jpg",
+        "image": "https://i.pinimg.com/564x/80/3f/ca/803fca9b309ff7cc374d2116838db654.jpg",
         "gender": "Female",
         "born": "1981",
         "alias": "Ginny",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "Horse",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Remus John Lupin",
-        "image": "https://harrypotter.fandom.com/wiki/File:<tabber>",
+        "image": "https://i.pinimg.com/564x/66/34/2f/66342fa4aca681e3ce18e072f8732e31.jpg",
         "gender": "Male",
         "born": "1960",
         "alias": "Moony",
@@ -178,37 +178,38 @@
         "boggart": "moon",
         "house": "Gryffindor",
         "patronus": "Wolf",
-        "species": "Human"
+        "species": "Human",
+        "first_appearance": "Prisoner of Azkaban"
     },
     {
         "name": "Minerva McGonagall",
-        "image": "https://harrypotter.fandom.com/wiki/File:ProfessorMcGonagall-HBP.jpg",
+        "image": "https://i.pinimg.com/736x/4a/38/b3/4a38b32c8247c89b3082212f9ed9b009.jpg",
         "gender": "Female",
         "born": "Unknown",
         "alias": "",
         "blood": "Half-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "Cat",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Dobby",
-        "image": "https://harrypotter.fandom.com/wiki/File:Dobby.jpg",
+        "image": "https://i.pinimg.com/564x/0e/d5/13/0ed51352eed41e4b49dfbffb24166ce6.jpg",
         "gender": "Male",
         "born": "Unknown",
         "alias": "",
         "blood": "Unknown",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Unknown",
         "patronus": "Unknown",
         "species": "House-elf",
-        "first_appearance": "COS"
+        "first_appearance": "Chamber of Secrets"
     },
     {
         "name": "Bellatrix Lestrange",
-        "image": "https://harrypotter.fandom.com/wiki/File:BellatrixLestrange.png",
+        "image": "https://i.pinimg.com/736x/63/ee/f3/63eef3a57b0aa87d06136d74e0b3ff79.jpg",
         "gender": "Female",
         "born": "1951",
         "alias": "Bella",
@@ -217,11 +218,11 @@
         "house": "Slytherin",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Molly Weasley",
-        "image": "https://harrypotter.fandom.com/wiki/File:Molly_Weasley_Deathly_Hallows.jpg",
+        "image": "https://i.pinimg.com/564x/15/e1/c0/15e1c0301458d25d1073257a55a62c19.jpg",
         "gender": "Female",
         "born": "Unknown",
         "alias": "Mollywobbles",
@@ -230,37 +231,37 @@
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Alastor Moody",
-        "image": "https://harrypotter.fandom.com/wiki/File:MoodyProfile.png",
+        "image": "https://i.pinimg.com/564x/c4/7b/b8/c47bb8775d7cda2c462cb3a367ad7275.jpg",
         "gender": "Male",
         "born": "1981",
         "alias": "Mad-Eye",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Unknown",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Cedric Diggory",
-        "image": "https://harrypotter.fandom.com/wiki/File:Cedric_Diggory_Profile.png",
+        "image": "https://i.pinimg.com/736x/71/c9/d3/71c9d3c4f86bc8c3a5dea582f23bff6f.jpg",
         "gender": "Male",
         "born": "Unknown",
         "alias": "Ced",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Hufflepuff",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "POA"
+        "first_appearance": "Prisoner of Azkaban"
     },
     {
         "name": "Nymphadora Tonks",
-        "image": "https://harrypotter.fandom.com/wiki/File:Nymphadora_Tonks_DH_promo_headshot_.jpg",
+        "image": "https://i.pinimg.com/564x/51/fe/8b/51fe8badaa5c9a5729ffd6522aa2f115.jpg",
         "gender": "Female",
         "born": "1973",
         "alias": "",
@@ -268,37 +269,38 @@
         "boggart": "Losing her abilities",
         "house": "Hufflepuff",
         "patronus": "Jack Rabbit",
-        "species": "Human"
+        "species": "Human",
+        "first_appearance": "Order of the Phoenix"
     },
     {
         "name": "Arthur Weasley",
-        "image": "https://harrypotter.fandom.com/wiki/File:Arthur_Weasley_profile.jpg",
+        "image": "https://i.pinimg.com/564x/1d/39/71/1d3971b1c614ccd36f0a244b525f4799.jpg",
         "gender": "Male",
         "born": "1950",
         "alias": "Arnold Weasley",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "Weasel",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Cho Chang",
-        "image": "https://harrypotter.fandom.com/wiki/File:Cho_Chang.jpg",
+        "image": "https://i.pinimg.com/564x/e5/17/4b/e5174be4fc4d237d42f4e1d7a4006c5d.jpg",
         "gender": "Female",
         "born": "1979",
         "alias": "",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Ravenclaw",
         "patronus": "Swan",
         "species": "Human",
-        "first_appearance": "POA"
+        "first_appearance": "Prisoner of Azkaban"
     },
     {
         "name": "Peeves",
-        "image": "https://harrypotter.fandom.com/wiki/File:Peeves_-_Bob_Venables_PM.gif",
+        "image": "https://i.pinimg.com/originals/3a/24/02/3a24029898c3e0ca35358c6ec813c69f.gif",
         "gender": "Male",
         "born": "Amortal",
         "alias": "Peevsie",
@@ -307,24 +309,24 @@
         "house": "No House",
         "patronus": "Unknown",
         "species": "Poltergeist",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Fleur Isabelle Delacour",
-        "image": "https://harrypotter.fandom.com/wiki/File:Fleur_Delacour.jpg",
+        "image": "https://i.pinimg.com/564x/fd/bf/54/fdbf544087203da85f9741f274d69f3a.jpg",
         "gender": "Female",
         "born": "1977",
         "alias": "Phlegm",
         "blood": "Half-breed",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Unknown",
         "patronus": "Non-corporeal",
         "species": "Part-human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "William Arthur Weasley",
-        "image": "https://harrypotter.fandom.com/wiki/File:BillWeasleyDH2.png",
+        "image": "https://i.pinimg.com/564x/6d/7a/1e/6d7a1e9f7ee43b83af0a170aa1b87aae.jpg",
         "gender": "Male",
         "born": "1970",
         "alias": "Bill",
@@ -333,24 +335,24 @@
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Percy Ignatius Weasley",
-        "image": "https://harrypotter.fandom.com/wiki/File:Percy_WeasleyDH.jpg",
+        "image": "https://i.pinimg.com/564x/a4/e1/36/a4e1364160f5847cf0c773be55d802cc.jpg",
         "gender": "Male",
         "born": "1976",
         "alias": "Perce",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Narcissa Malfoy",
-        "image": "https://harrypotter.fandom.com/wiki/File:Narcissa_Malfoy.png",
+        "image": "https://i.pinimg.com/564x/5f/05/ea/5f05ea203fc8f8ae9473dc63f476670e.jpg",
         "gender": "Female",
         "born": "1955",
         "alias": "Cissy",
@@ -359,24 +361,24 @@
         "house": "Slytherin",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Lucius Malfoy",
-        "image": "https://harrypotter.fandom.com/wiki/File:Lucius_Malfoy_BoH.png",
+        "image": "https://i.pinimg.com/736x/db/5b/19/db5b19bbaa866e622c915f14a406a82e.jpg",
         "gender": "Male",
         "born": "1954",
         "alias": "",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Slytherin",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Dolores Jane Umbridge",
-        "image": "https://harrypotter.fandom.com/wiki/File:Dolores_Umbridge_DHF1_promotional_image.jpg",
+        "image": "https://i.pinimg.com/736x/01/c0/fb/01c0fb506b745e0fd64bcd19676fe6c7.jpg",
         "gender": "Female",
         "born": "1961",
         "alias": "",
@@ -385,37 +387,37 @@
         "house": "Slytherin",
         "patronus": "Persian cat",
         "species": "Human",
-        "first_appearance": "OOTP"
+        "first_appearance": "Order of the Phoenix"
     },
     {
         "name": "Gilderoy Lockhart",
-        "image": "https://harrypotter.fandom.com/wiki/File:Kenneth_Branagh_as_Gilderoy-Lockhart_(6).jpg",
+        "image": "https://i.pinimg.com/564x/4e/9f/fe/4e9ffebfcf18444ca05599d2fcd242ec.jpg",
         "gender": "Male",
         "born": "1964",
         "alias": "",
         "blood": "Half-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Ravenclaw",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "COS"
+        "first_appearance": "Chamber of Secrets"
     },
     {
         "name": "Viktor Krum",
-        "image": "https://harrypotter.fandom.com/wiki/File:Viktor_Krum_promo_Yule_Ball.png",
+        "image": "https://i.pinimg.com/736x/c7/1d/a7/c71da724ab3b750e4b5874eb7bce146b.jpg",
         "gender": "Male",
         "born": "1976",
         "alias": "Vicky",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Unknown",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Kingsley Shacklebolt",
-        "image": "https://harrypotter.fandom.com/wiki/File:Kingsley_Shacklebolt_2.jpg",
+        "image": "https://i.pinimg.com/564x/e5/bf/c0/e5bfc045e5b82c42fb1ea22c394591d5.jpg",
         "gender": "Male",
         "born": "1960",
         "alias": "Potterwatch|Royal",
@@ -424,63 +426,63 @@
         "house": "Unknown",
         "patronus": "Lynx",
         "species": "Human",
-        "first_appearance": "OOTP"
+        "first_appearance": "Order of the Phoenix"
     },
     {
         "name": "Filius Flitwick",
-        "image": "https://harrypotter.fandom.com/wiki/File:Flitwickarmourbattle.png",
+        "image": "https://i.pinimg.com/564x/cb/43/9e/cb439ed8b6fc27936f557fd7bddcf848.jpg",
         "gender": "Male",
         "born": "1958",
         "alias": "",
         "blood": "Half-breed",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Ravenclaw",
         "patronus": "Non-corporeal",
         "species": "Part-human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Pomona Sprout",
-        "image": "https://harrypotter.fandom.com/wiki/File:Pomona_Sprout_DHF2.jpg",
+        "image": "https://i.pinimg.com/564x/db/3e/59/db3e59083491fc198382c62ab4e2146f.jpg",
         "gender": "Female",
         "born": "1967",
         "alias": "",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Hufflepuff",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Peter Pettigrew",
-        "image": "https://harrypotter.fandom.com/wiki/File:Pettigrew_DH1.jpg",
+        "image": "https://i.pinimg.com/564x/40/77/a8/4077a876c0755dc20a48d589aa872117.jpg",
         "gender": "Male",
         "born": "1960",
         "alias": "Wormtail",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Cornelius Oswald Fudge",
-        "image": "https://harrypotter.fandom.com/wiki/File:Corneliushogwarts.jpg",
+        "image": "https://i.pinimg.com/564x/67/47/8b/67478b9fb4a4f15a0278e6e64a25474e.jpg",
         "gender": "Male",
         "born": "1964",
         "alias": "Goblin-Crusher",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Unknown",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Lavender Brown",
-        "image": "https://harrypotter.fandom.com/wiki/File:Lavender_Brown_HBP.jpg",
+        "image": "https://i.pinimg.com/736x/d5/94/d4/d594d419afeba07cb4e834e0e8ca923c.jpg",
         "gender": "Female",
         "born": "1980",
         "alias": "Lav-Lav",
@@ -489,7 +491,7 @@
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Seamus Finnigan",
@@ -502,11 +504,11 @@
         "house": "Gryffindor",
         "patronus": "Fox",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Dean Thomas",
-        "image": "https://harrypotter.fandom.com/wiki/File:Dean_Thomas_DHF2.jpg",
+        "image": "https://i.pinimg.com/564x/d0/ca/cb/d0cacbb3b000b536db77f44cf23f7785.jpg",
         "gender": "Male",
         "born": "1980",
         "alias": "",
@@ -515,11 +517,11 @@
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Parvati Patil",
-        "image": "https://harrypotter.fandom.com/wiki/File:Parvati_Patil_headshot.jpg",
+        "image": "https://i.pinimg.com/564x/41/db/4b/41db4b475d6fe16f33a07e3f54034600.jpg",
         "gender": "Female",
         "born": "1980",
         "alias": "Miss Pennyfeather",
@@ -528,11 +530,11 @@
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Padma Patil",
-        "image": "https://harrypotter.fandom.com/wiki/File:PadmaPatil.png",
+        "image": "https://i.pinimg.com/564x/1f/64/b4/1f64b4cdee970094a208a1e06c5c095a.jpg",
         "gender": "Female",
         "born": "1980",
         "alias": "",
@@ -541,11 +543,11 @@
         "house": "Ravenclaw",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Argus Filch",
-        "image": "https://harrypotter.fandom.com/wiki/File:Mainfulcd.jpg",
+        "image": "https://i.pinimg.com/564x/23/07/e4/2307e42dfe7f4899465d06ef32b482b1.jpg",
         "gender": "Male",
         "born": "1951",
         "alias": "Filchy",
@@ -554,63 +556,63 @@
         "house": "Unknown",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Sybill Patricia Trelawney",
-        "image": "https://harrypotter.fandom.com/wiki/File:Sybill_Trelawney.JPG",
+        "image": "https://i.pinimg.com/736x/24/2e/da/242eda44fc1507cc0eb1593ef15e6bbf.jpg",
         "gender": "Female",
         "born": "1981",
         "alias": "The False Prophet",
         "blood": "Half-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Ravenclaw",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "POA"
+        "first_appearance": "Prisoner of Azkaban"
     },
     {
         "name": "Bartemius Crouch Junior",
-        "image": "https://harrypotter.fandom.com/wiki/File:Barty_Crouch_Junior.jpg",
+        "image": "https://i.pinimg.com/564x/89/42/e7/8942e7a02b4dce0142ae93ab3a3204e3.jpg",
         "gender": "Male",
         "born": "1962",
         "alias": "Barty Crouch Jr",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Unknown",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Bartemius Crouch Senior",
-        "image": "https://harrypotter.fandom.com/wiki/File:Barty_Crouch_Senior_GOFF_promo.jpg",
+        "image": "https://i.pinimg.com/564x/04/19/28/041928197ab6e323a93bad6595bf9bf2.jpg",
         "gender": "Male",
         "born": "1942",
         "alias": "Barty",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Unknown",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Rita Skeeter",
-        "image": "https://harrypotter.fandom.com/wiki/File:Rita_Skeeter_2.jpg",
+        "image": "https://i.pinimg.com/564x/24/00/9e/24009ee1c1ffb7293b21f8a2af16b2b9.jpg",
         "gender": "Female",
         "born": "1951",
         "alias": "Queen of the Quills",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Unknown",
         "patronus": "Non-corporeal",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Gellert Grindelwald",
-        "image": "https://harrypotter.fandom.com/wiki/File:Talk:Gellert_Grindelwald#Main_Image_Vote_post_SOD",
+        "image": "https://i.pinimg.com/564x/ef/7f/8f/ef7f8f8df229b80027fc25d0478977b8.jpg",
         "gender": "Male",
         "born": "1882",
         "alias": "Percival Graves",
@@ -622,7 +624,7 @@
     },
     {
         "name": "Helena Ravenclaw",
-        "image": "https://harrypotter.fandom.com/wiki/File:Helena_Ravenclaw.png",
+        "image": "https://i.pinimg.com/564x/e1/a9/09/e1a90915efcaa6b40a306e56adea20a8.jpg",
         "gender": "Female",
         "born": "982",
         "alias": "The Ghost of Ravenclaw",
@@ -631,11 +633,11 @@
         "house": "Ravenclaw",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Myrtle Elizabeth Warren",
-        "image": "https://harrypotter.fandom.com/wiki/File:Myrtle_Warren_profile.png",
+        "image": "https://i.pinimg.com/564x/b0/e0/9c/b0e09c34bd944bd0e49406e41a131b9c.jpg",
         "gender": "Female",
         "born": "1929",
         "alias": "Moaning Myrtle",
@@ -644,24 +646,11 @@
         "house": "Ravenclaw",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "COS"
-    },
-    {
-        "name": "Rufus Scrimgeour",
-        "image": "https://harrypotter.fandom.com/wiki/File:Rufus_Scrimgeour.jpg",
-        "gender": "Male",
-        "born": "1968",
-        "alias": "",
-        "blood": "Pure-blood",
-        "boggart": "Unknown",
-        "house": "Unknown",
-        "patronus": "Non-corporeal",
-        "species": "Human",
-        "first_appearance": "OOTP"
+        "first_appearance": "Chamber of Secrets"
     },
     {
         "name": "Aberforth Dumbledore",
-        "image": "https://harrypotter.fandom.com/wiki/File:Aberforth_Dumbledore.jpg",
+        "image": "https://i.pinimg.com/564x/fb/54/2c/fb542c770cb298d8ff3616a002225b37.jpg",
         "gender": "Male",
         "born": "1884",
         "alias": "Ab",
@@ -670,11 +659,11 @@
         "house": "Unknown",
         "patronus": "Goat",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Kreacher",
-        "image": "https://harrypotter.fandom.com/wiki/File:Kreacher_HPE.jpg",
+        "image": "https://i.pinimg.com/564x/bc/c2/ac/bcc2ac0d21acfdaaf085bd38c24876d2.jpg",
         "gender": "Male",
         "born": "Unknown",
         "alias": "",
@@ -683,50 +672,50 @@
         "house": "Unknown",
         "patronus": "Unknown",
         "species": "House-elf",
-        "first_appearance": "OOTP"
+        "first_appearance": "Order of the Phoenix"
     },
     {
         "name": "Colin Creevey",
-        "image": "https://harrypotter.fandom.com/wiki/File:Colin_Creevey.jpg",
+        "image": "https://i.pinimg.com/564x/af/99/b9/af99b9ce26026a49aaadef4a5bb2d2dd.jpg",
         "gender": "Male",
         "born": "1981",
         "alias": "",
         "blood": "Muggle-born",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Gryffindor",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "COS"
+        "first_appearance": "Chamber of Secrets"
     },
     {
         "name": "Gregory Goyle",
-        "image": "https://harrypotter.fandom.com/wiki/File:Gregory_Goyle_DH2.jpg",
+        "image": "https://i.pinimg.com/564x/10/74/e8/1074e89bbcb3b76dd4db452a549c679b.jpg",
         "gender": "Male",
         "born": "1980",
         "alias": "",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Slytherin",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Vincent Crabbe",
-        "image": "https://harrypotter.fandom.com/wiki/File:Vincent_Crabbe.jpg",
+        "image": "https://i.pinimg.com/564x/fe/69/53/fe69538481de1b653ddbdeb42b5eee02.jpg",
         "gender": "Male",
         "born": "1980",
         "alias": "",
         "blood": "Pure-blood",
-        "boggart": "Tom Riddle|Lord Voldemort",
+        "boggart": "Lord Voldemort",
         "house": "Slytherin",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Andromeda Tonks",
-        "image": "https://harrypotter.fandom.com/wiki/File:Andromeda_Tonks_(Jessica_Roux).png",
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c7/3bcabecbd15b29d599c0b2e13b410572.jpg/revision/latest?cb=20210506232657&path-prefix=pt-br",
         "gender": "Female",
         "born": "1955",
         "alias": "Dromeda",
@@ -735,11 +724,11 @@
         "house": "Slytherin",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "OOTP"
+        "first_appearance": "Order of the Phoenix"
     },
     {
         "name": "Leta Lestrange",
-        "image": "https://harrypotter.fandom.com/wiki/File:Leta_Profile.png",
+        "image": "https://i.pinimg.com/564x/a6/28/97/a62897ea68e464807a17d23257bbf78c.jpg",
         "gender": "Female",
         "born": "1897",
         "alias": "",
@@ -751,7 +740,7 @@
     },
     {
         "name": "Nagini",
-        "image": "https://harrypotter.fandom.com/wiki/File:<gallery>",
+        "image": "https://i.pinimg.com/564x/6e/72/00/6e72002c2ba41f78c1e9b6549411a065.jpg",
         "gender": "Female",
         "born": "1927",
         "alias": "",
@@ -760,11 +749,11 @@
         "house": "Unknown",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "GOF"
+        "first_appearance": "Goblet of Fire"
     },
     {
         "name": "Amycus Carrow",
-        "image": "https://harrypotter.fandom.com/wiki/File:Amycus_Carrow_PM.png",
+        "image": "https://i.pinimg.com/564x/2f/52/88/2f52884d792ca1e89a66fc1cab472cf7.jpg",
         "gender": "Male",
         "born": "Unknown",
         "alias": "",
@@ -773,11 +762,11 @@
         "house": "Slytherin",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "HBP"
+        "first_appearance": "Half-Blood Prince"
     },
     {
         "name": "Lily J. Potter",
-        "image": "https://harrypotter.fandom.com/wiki/File:Lily_Potter_(I)_DHF2.jpg",
+        "image": "https://i.pinimg.com/564x/32/ef/76/32ef7617f17ebb796fa905aa69b84ec6.jpg",
         "gender": "Female",
         "born": "1960",
         "alias": "",
@@ -786,11 +775,11 @@
         "house": "Gryffindor",
         "patronus": "Deer|Doe",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "James Potter",
-        "image": "https://harrypotter.fandom.com/wiki/File:James_Potter_I_Deathly_Hallows.jpg",
+        "image": "https://i.pinimg.com/564x/d4/41/a4/d441a431ace5aa94353d5a0da398ddbd.jpg",
         "gender": "Male",
         "born": "1960",
         "alias": "Prongs",
@@ -799,11 +788,11 @@
         "house": "Gryffindor",
         "patronus": "Deer|Stag",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Tom Marvolo Riddle",
-        "image": "https://harrypotter.fandom.com/wiki/File:Voldemort_Headshot_DHP1.png",
+        "image": "https://i.pinimg.com/564x/c6/36/83/c6368320d8ad364c7c8a8bd05ad4cd35.jpg",
         "gender": "Male",
         "born": "1926",
         "alias": "Lord Voldemort",
@@ -812,11 +801,11 @@
         "house": "Slytherin",
         "patronus": "None",
         "species": "Human",
-        "first_appearance": "PS"
+        "first_appearance": "Philosopher's Stone"
     },
     {
         "name": "Porpentina Esther Goldstein",
-        "image": "https://harrypotter.fandom.com/wiki/File:Porpentina_Goldstein_FB_3.jpeg",
+        "image": "https://i.pinimg.com/564x/8a/7e/6b/8a7e6b5f05a35f990fb544dd5e3f216a.jpg",
         "gender": "Female",
         "born": "1901",
         "alias": "Tina",
@@ -825,6 +814,6 @@
         "house": "Thunderbird",
         "patronus": "Unknown",
         "species": "Human",
-        "first_appearance": "FB"
+        "first_appearance": "Fantastic Beasts"
     }
 ]

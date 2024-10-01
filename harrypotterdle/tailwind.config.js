@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      harry: ["Harry", "sans-serif"]
+    }
   },
   plugins: [],
 }
