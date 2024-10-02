@@ -12,8 +12,9 @@ import Four from '../assets/books/4.webp';
 import Five from '../assets/books/5.webp';
 import Six from '../assets/books/6.webp';
 import Seven from '../assets/books/7.webp';
+import Fb from '../assets/books/FB.webp';
 
-export default function Guess({ character, correctAnswer }) {
+export default function Guess({ character, correctAnswer, setPlaying }) {
     // console.log("correct answer", correctAnswer)
     // console.log("correct name:", correctAnswer.name)
     const matchName = character.name === correctAnswer.name;
@@ -49,19 +50,24 @@ export default function Guess({ character, correctAnswer }) {
         if(character.first_appearance === "Order of the Phoenix") return Five;
         if(character.first_appearance === "Half-Blood Prince") return Six;
         if(character.first_appearance === "Deathly Hallows") return Seven;
+        if(character.first_appearance === "Fantastic Beasts") return Fb;
+    }
+
+    if(matchAppearance && matchBlood && matchBoggart && matchBorn && matchGender && matchHouse && matchName && matchPatronus && matchSpecies){
+        setPlaying(false);
     }
 
     return (
         <div className="grid grid-cols-9 gap-2 w-full justify-evenly">
-            <Attribute name={character.name} character={true} correct={matchName} image={character.image}/>
+            <Attribute name={character.name} character={true} correct={matchName} image={character.image} bgSize={"bg-cover"}/>
             <Attribute name={character.gender} correct={matchGender}/>
             <Attribute name={character.boggart} correct={matchBoggart} />
             <Attribute name={character.blood} correct={matchBlood} />
-            <Attribute name={character.born} correct={matchBorn} bgSize={"bg-contain"} image={getBornImage() /* modify here the image size? */}/>
-            <Attribute name={character.house} correct={matchHouse} image={getHouseImage()} bgSize={"bg-contain"}/>
+            <Attribute name={character.born} correct={matchBorn} bgSize={"bg-contain bg-top"} image={getBornImage() /* modify here the image size? */}/>
+            <Attribute name={character.house} correct={matchHouse} image={getHouseImage()} bgSize={"bg-contain bg-top"}/>
             <Attribute name={character.species} correct={matchSpecies} />
             <Attribute name={character.patronus} correct={matchPatronus} />
-            <Attribute name={character.first_appearance} correct={matchAppearance} opacity={"opacity-70"} image={getBookImage()} bgSize={"bg-cover"}/>
+            <Attribute name={character.first_appearance} correct={matchAppearance} opacity={"opacity-70"} image={getBookImage()} bgSize={"bg-cover bg-center"}/>
         </div>
     );
 }

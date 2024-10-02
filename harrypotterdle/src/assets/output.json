@@ -8,7 +8,7 @@
         "blood": "Half-blood",
         "boggart": "Dementor",
         "house": "Gryffindor",
-        "patronus": "Deer|Stag",
+        "patronus": "Deer/Stag",
         "species": "Human",
         "first_appearance": "Philosopher's Stone"
     },
@@ -45,7 +45,7 @@
         "born": "1881",
         "alias": "",
         "blood": "Half-blood",
-        "boggart": "Death|corpse",
+        "boggart": "Death/corpse",
         "house": "Gryffindor",
         "patronus": "Phoenix",
         "species": "Human",
@@ -60,7 +60,7 @@
         "blood": "Half-blood",
         "boggart": "Lord Voldemort",
         "house": "Slytherin",
-        "patronus": "Deer|Doe",
+        "patronus": "Deer/Doe",
         "species": "Human",
         "first_appearance": "Philosopher's Stone"
     },
@@ -147,7 +147,7 @@
         "image": "https://i.pinimg.com/564x/99/60/c2/9960c23c3032aa43e5f6dc7790ec6047.jpg",
         "gender": "Male",
         "born": "1978",
-        "alias": "Fred Weasley|Gred",
+        "alias": "Fred Weasley/Gred",
         "blood": "Pure-blood",
         "boggart": "Lord Voldemort",
         "house": "Gryffindor",
@@ -227,7 +227,7 @@
         "born": "Unknown",
         "alias": "Mollywobbles",
         "blood": "Pure-blood",
-        "boggart": "Death|Corpses",
+        "boggart": "Death/Corpses",
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
@@ -420,7 +420,7 @@
         "image": "https://i.pinimg.com/564x/e5/bf/c0/e5bfc045e5b82c42fb1ea22c394591d5.jpg",
         "gender": "Male",
         "born": "1960",
-        "alias": "Potterwatch|Royal",
+        "alias": "Potterwatch/Royal",
         "blood": "Pure-blood",
         "boggart": "Unknown",
         "house": "Unknown",
@@ -513,7 +513,7 @@
         "born": "1980",
         "alias": "",
         "blood": "Half-blood",
-        "boggart": "Loose Hand|Severed hand walking on its own",
+        "boggart": "Loose Hand/Severed hand walking on its own",
         "house": "Gryffindor",
         "patronus": "Non-corporeal",
         "species": "Human",
@@ -620,7 +620,8 @@
         "boggart": "Unknown",
         "house": "Unknown",
         "patronus": "Non-corporeal",
-        "species": "Human"
+        "species": "Human",
+        "first_appearance": "Deathly Hallows"
     },
     {
         "name": "Helena Ravenclaw",
@@ -733,10 +734,11 @@
         "born": "1897",
         "alias": "",
         "blood": "Pure-blood",
-        "boggart": "Corvus Lestrange (V)|Corvus Lestrange",
+        "boggart": "Corvus Lestrange (V)/Corvus Lestrange",
         "house": "Slytherin",
         "patronus": "Unknown",
-        "species": "Human"
+        "species": "Human",
+        "first_appearance": "Fantastic Beasts"
     },
     {
         "name": "Nagini",
@@ -773,7 +775,7 @@
         "blood": "Muggle-born",
         "boggart": "Unknown",
         "house": "Gryffindor",
-        "patronus": "Deer|Doe",
+        "patronus": "Deer/Doe",
         "species": "Human",
         "first_appearance": "Philosopher's Stone"
     },
@@ -786,7 +788,7 @@
         "blood": "Pure-blood",
         "boggart": "Unknown",
         "house": "Gryffindor",
-        "patronus": "Deer|Stag",
+        "patronus": "Deer/Stag",
         "species": "Human",
         "first_appearance": "Philosopher's Stone"
     },
