@@ -1,5 +1,24 @@
-# harrypotter.dle
+# HarryPotter.dle
 
-Wordle-like game based on harry potter made with React
+**HarryPotter.dle** is a Wordle-like game built on React
 
-available at: https://vercel.com/alex-benjamim-de-oliveira-martins-projects
+## Features
+- Unlimited guesses per character
+- Interactive game interface
+- Responsive elements
+- Stylish Harry Potter-themed design
+- Hosted on Vercel for easy access
+
+## Tech Stack
+- **Frontend**: React, JavaScript, CSS
+
+## Play the Game
+[Available on Vercel](https://vercel.com/alex-benjamim-de-oliveira-martins-projects)
+
+## Getting Started
+Bash:
+1. `git clone https://github.com/alexoliveiramartins/harrypotter.dle`
+3. `cd harrypotterdle/`
+2. `npm install`
+3. `npm run dev`
+---
