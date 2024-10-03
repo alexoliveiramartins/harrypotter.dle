@@ -29,6 +29,16 @@ function Home() {
         {!playing ? <Answer character={correctAnswer}/>: ""}
         {correctAnswer && <InputBox setPlaying={setPlaying} playing={playing} correctAnswer={correctAnswer} />}
       </div>
+      <div 
+      class="opacity-75 min-w-max flex font-light flex-row items-center space-x-1 justify-center text-gray-50">
+        <footer class="">made by
+        </footer>
+        <a 
+          href="https://github.com/alexoliveiramartins" 
+          class="font-semibold decoration-dotted underline">
+            alex
+          </a>
+      </div>
     </div>
   );
 }
