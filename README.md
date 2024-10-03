@@ -1,3 +1,3 @@
 # harrypotter.dle
 
-Wordle-like game based on harry potter
+Wordle-like game based on harry potter made with React
