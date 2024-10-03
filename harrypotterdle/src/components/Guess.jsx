@@ -1,6 +1,4 @@
 import Attribute from "./Attribute";
-import downArrow from '../assets/down-arrow.svg';
-import upArrow from '../assets/up-arrow.svg';
 import Gryffindor from '../assets/houses/Gryffindor.webp';
 import Slytherin from '../assets/houses/Slytherin.webp';
 import Ravenclaw from '../assets/houses/Ravenclaw.webp';
@@ -32,7 +30,7 @@ export default function Guess({ character, correctAnswer, setPlaying }) {
         const bornYear = parseInt(character.born);
         const correctYear = parseInt(correctAnswer.born);
         if(isNaN(bornYear) || isNaN(correctYear)) return "";
-        return bornYear > correctYear ? downArrow : upArrow;
+        return bornYear > correctYear ? "/down-arrow.svg" : "/up-arrow.svg";
     }
 
     const getHouseImage = () => {
