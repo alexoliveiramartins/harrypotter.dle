@@ -58,7 +58,7 @@ export default function Guess({ character, correctAnswer, setPlaying }) {
     }
 
     return (
-        <div className="grid grid-cols-9 gap-2 w-full justify-evenly">
+        <div className="grid grid-cols-9 gap-2 w-full justify-evenly min-w-max">
             <Attribute name={character.name} character={true} correct={matchName} image={character.image} bgSize={"bg-cover"}/>
             <Attribute name={character.gender} correct={matchGender}/>
             <Attribute name={character.boggart} correct={matchBoggart} />

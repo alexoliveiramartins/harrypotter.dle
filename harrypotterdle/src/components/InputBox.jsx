@@ -8,6 +8,7 @@ export default function InputBox({correctAnswer, playing, setPlaying}) {
     const [filteredNames, setFilteredNames] = useState([]);
     const [characters, setCharacters] = useState(characterData);
     const [guesses, setGuesses] = useState([]);
+    const [selectedIndex, setSelectedIndex] = useState(0);
 
     useEffect(() => {
         const filtered = characters.filter(character => 
@@ -15,6 +16,8 @@ export default function InputBox({correctAnswer, playing, setPlaying}) {
             (character.alias && character.alias.toLowerCase().includes(inputValue.toLowerCase()))
         );
         setFilteredNames(filtered);
+        setSelectedIndex(0);
+        console.log("selected: ", selectedIndex);
     }, [inputValue, characters]);
 
     // lidar quando o texto muda no inputbox
@@ -36,13 +39,16 @@ export default function InputBox({correctAnswer, playing, setPlaying}) {
     }
 
     // quando você aperta enter
+    // setinha tbm
     const handleKeyDown = (e) => {
-        if(e.key === 'Enter'){
-            const newCharacters = characters.filter(character =>
-                character.name.toLowerCase() !== inputValue.toLowerCase()
+        if (e.key === 'Enter' && filteredNames.length > 0) {
+            handleClick(filteredNames[selectedIndex].name);
+        } else if (e.key === 'ArrowDown') {
+            setSelectedIndex(prevIndex => 
+                prevIndex < filteredNames.length - 1 ? prevIndex + 1 : prevIndex
             );
-            setCharacters(newCharacters);
-            setInputValue('');
+        } else if (e.key === 'ArrowUp') {
+            setSelectedIndex(prevIndex => prevIndex > 0 ? prevIndex - 1 : 0);
         }
     }
     // console.log('InputBox - correctAnswer:', correctAnswer);
@@ -64,8 +70,12 @@ export default function InputBox({correctAnswer, playing, setPlaying}) {
             />}
             {inputValue.length > 0 && (
             <ul className='absolute w-full max-w-screen z-20 max-h-screen overflow-y-scroll bg-slate-50'>
-                {filteredNames.map(character => (
-                    <li onClick={() => handleClick(character.name)} className='items-center flex space-x-2 flex-row p-2 hover:bg-slate-100' key={character.id}>
+                {filteredNames.map((character, index) => (
+                    <li 
+                    onClick={() => handleClick(character.name)} 
+                    className={`items-center flex space-x-2 flex-row p-2 ${index === selectedIndex ? 'bg-slate-200' : 'hover:bg-slate-100'}`}
+                    key={character.id}
+                    onMouseEnter={() => setSelectedIndex(index)}>
                         <img className="size-14 rounded-md shadow-sm w-15 h-15" src={character.image}></img>
                         <span>{character.name}</span>
                         {character.alias && character.alias !== "" && (
@@ -78,7 +88,7 @@ export default function InputBox({correctAnswer, playing, setPlaying}) {
             </ul>
             )}
         </div>
-        <div className='flex flex-col'>
+        <div className='flex flex-col overflow-x-auto'>
             <AtributesTitle/>
             <div className='space-y-2'>
             {guesses.map((guess, index) => (
