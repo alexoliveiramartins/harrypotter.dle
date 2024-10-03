@@ -6,7 +6,6 @@
 - Unlimited guesses per character
 - Interactive game interface
 - Responsive elements
-- Stylish Harry Potter-themed design
 - Hosted on Vercel for easy access
 
 ## Tech Stack
