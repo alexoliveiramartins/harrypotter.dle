@@ -32,11 +32,10 @@ export default function InputBox({correctAnswer, playing, setPlaying}) {
         const savedGuessNames = JSON.parse(localStorage.getItem('guesses') || '[]');
         const savedGuesses = savedGuessNames.map(name => 
             characters.find(character => character.name === name)
-        ).filter(Boolean); // Filter out any undefined values
+        ).filter(Boolean);
     
         setGuesses(savedGuesses);
-        
-        // Remove guessed characters from the available characters
+    
         const remainingCharacters = characters.filter(character => 
             !savedGuessNames.includes(character.name)
         );

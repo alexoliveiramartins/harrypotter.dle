@@ -11,6 +11,7 @@ import Five from '../assets/books/5.webp';
 import Six from '../assets/books/6.webp';
 import Seven from '../assets/books/7.webp';
 import Fb from '../assets/books/FB.webp';
+import { useEffect } from "react";
 
 export default function Guess({ character, correctAnswer, setPlaying }) {
     // console.log("correct answer", correctAnswer)
@@ -51,9 +52,32 @@ export default function Guess({ character, correctAnswer, setPlaying }) {
         if(character.first_appearance === "Fantastic Beasts") return Fb;
     }
 
-    if(matchAppearance && matchBlood && matchBoggart && matchBorn && matchGender && matchHouse && matchName && matchPatronus && matchSpecies){
-        setPlaying(false);
-    }
+    useEffect(() => {
+        if (
+            matchAppearance &&
+            matchBlood &&
+            matchBoggart &&
+            matchBorn &&
+            matchGender &&
+            matchHouse &&
+            matchName &&
+            matchPatronus &&
+            matchSpecies
+        ) {
+            setPlaying(false);
+        }
+    }, [
+        matchAppearance,
+        matchBlood,
+        matchBoggart,
+        matchBorn,
+        matchGender,
+        matchHouse,
+        matchName,
+        matchPatronus,
+        matchSpecies,
+        setPlaying,
+    ]);
 
     return (
         <div className="grid grid-cols-9 gap-2 w-full justify-evenly min-w-max">
