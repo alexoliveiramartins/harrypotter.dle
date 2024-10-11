@@ -1,3 +1,5 @@
+### ps: this website was later developed in a better version avaliable at [netlify](https://harrypotterdlegame.netlify.app)
+
 # HarryPotter.dle
 
 **HarryPotter.dle** is a Wordle-like game built on React
