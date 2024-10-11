@@ -12,7 +12,7 @@
 - **Frontend**: React, JavaScript, CSS
 
 ## Play the Game
-[Available on Vercel](https://vercel.com/alex-benjamim-de-oliveira-martins-projects)
+[Available on Vercel](https://harrypotterdle.vercel.app)
 
 ## Getting Started
 Bash:
